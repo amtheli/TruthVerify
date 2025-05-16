@@ -1,0 +1,16 @@
+{
+  "cheqd": {
+    "network": "testnet",
+    "apiKey": "cursor_ai_${API_KEY}"
+  },
+  "tfjs": {
+    "modelCache": {
+      "deepfake_v3": "/models/deepfake_v3",
+      "nlp-base": "/models/nlp_v2"
+    }
+  },
+  "bundler": {
+    "chunkSize": "512kb",
+    "runtimeCaching": true
+  }
+} 

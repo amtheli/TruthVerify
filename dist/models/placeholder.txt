@@ -1,0 +1,7 @@
+This is a placeholder file for the models directory.
+
+In a real implementation, you would have the following model files:
+- deepfake_v3/model.json
+- deepfake_v3/weights.bin
+- nlp_v2/model.json
+- nlp_v2/weights.bin 
